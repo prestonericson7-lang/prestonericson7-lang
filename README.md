@@ -46,6 +46,7 @@ and the predictions written down before the tests that grade them.
 | Project | What it is |
 |---|---|
 | [wormhole-math-exact](https://github.com/prestonericson7-lang/wormhole-math-exact) | The computations the wormhole and warp-drive papers left undone, in exact integer arithmetic, reproducible bit for bit |
+| [miras-ant](https://github.com/prestonericson7-lang/miras-ant) | Langton's ant from all 68,719,476,736 starts in a 6 by 6 box, run exactly: every one builds the road, and how it gets there |
 
 ## Hardware
 
