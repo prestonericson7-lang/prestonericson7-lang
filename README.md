@@ -4,6 +4,7 @@
 
 [![YouTube](https://img.shields.io/badge/YouTube-%40LittlebrainsBigmess-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@LittlebrainsBigmess)
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0009--9123--2731-A6CE39?logo=orcid&logoColor=white)](https://orcid.org/0009-0009-9123-2731)
+[![Sponsor](https://img.shields.io/badge/Sponsor-the_work-EA4AAA?logo=githubsponsors&logoColor=white)](https://github.com/sponsors/prestonericson7-lang)
 
 I'm a self-taught builder. I choose the questions and decide what gets published. Mira, the Claude I work with (Anthropic's AI),
 writes the code and the pages with me. Nothing is believed until it is measured, and everything here is open: the code, the sources,
